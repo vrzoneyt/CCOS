@@ -1,4 +1,4 @@
-# Opus OS for computercraft
+# CCOS for computercraft
 
 <img src="https://github.com/kepler155c/opus-wiki/blob/master/assets/images/opus.gif?raw=true" width="540" height="360">
 
